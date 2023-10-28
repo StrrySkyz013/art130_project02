@@ -37,10 +37,12 @@ body {
 .intro {
     display: block;
     margin-bottom: 0.5rem;
+    font-family: 'stentiga';
+    font-size: 3.5rem;
 }
 
 h1 {
-    font-family: stentiga;
+    font-family: 'stentiga';
     margin-block-start: 0;
     margin-block-end: 0;
     font-size: 3.5rem;
@@ -58,3 +60,6 @@ h1 .smaller-text {
     margin-top: 0.5rem;
 } 
 
+.wide-letterspacing {
+    letter-spacing: 0.05em;
+}
