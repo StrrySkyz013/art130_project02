@@ -47,8 +47,14 @@ h1 {
 }
 
 h1 .larger-text {
-    font-size: 5rem;
+    font-size: 3rem;
     line-height: 0.8;
     margin-top: 0.5rem;
 }
+
+h1 .smaller-text {
+    font-size: 1rem;
+    line-height: 0.8;
+    margin-top: 0.5rem;
+} 
 
