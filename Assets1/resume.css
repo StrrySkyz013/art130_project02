@@ -1,9 +1,40 @@
 @font-face {
     font-family: 'Uni_acc';
+    font-weight: 200;
+    font-style: normal;
     src: url('Assets1/Uni_acc.ttf') format('ttf');
 }
 
 @font-face {
-    font-family: 'Uni_acc';
-    src: url('Assets1/Uni_acc.ttf') format('ttf');
+    font-family: 'stentiga';
+    font-weight: 400;
+    font-style: normal;
+    src: url('Assets1/stentiga.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'stentiga';
+    font-weight: 500;
+    font-style: normal;
+    src: url('Assets1/stentiga.otf') format('otf');
+}
+
+html {
+    background-color: lavender;
+}
+
+body {
+    font-family: 'stengita';
+}
+
+.info {
+    position: relative;
+    background-color: lavender;
+    margin: 4rem 4rem 0;
+    padding: 2rem;
+}
+
+.intro {
+    display: block;
+    margin-bottom: 0.5rem;
 }
