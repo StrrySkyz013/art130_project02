@@ -38,3 +38,17 @@ body {
     display: block;
     margin-bottom: 0.5rem;
 }
+
+h1 {
+    font-family: stentiga;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-size: 3.5rem;
+}
+
+h1 .larger-text {
+    font-size: 5rem;
+    line-height: 0.8;
+    margin-top: 0.5rem;
+}
+
